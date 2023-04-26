@@ -1,0 +1,48 @@
+#This file was created on 2022-05-19
+
+data_image0
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+ _symmetry_equiv_pos_as_xyz
+ 'x, y, z'
+
+_cell_length_a	30.0
+_cell_length_b	30.0
+_cell_length_c	30.0
+_cell_angle_alpha	90.0
+_cell_angle_beta	90.0
+_cell_angle_gamma	90.0
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ O0 O 0.2284 0.4142 0.3547
+ O1 O 0.2818 0.4680 0.3557
+ Zr2 Zr 0.3489 0.4321 0.3480
+ O3 O 0.3823 0.3840 0.3122
+ O4 O 0.3136 0.3831 0.3826
+ C5 C 0.2463 0.4496 0.3687
+ H6 H 0.4146 0.4135 0.4124
+ O7 O 0.3959 0.3948 0.3937
+ H8 H 0.2806 0.4164 0.2851
+ O9 O 0.3002 0.3968 0.3019
+ Zr10 Zr 0.4317 0.3486 0.3459
+ Zr11 Zr 0.2648 0.3479 0.3477
+ Zr12 Zr 0.3491 0.3476 0.4303
+ Zr13 Zr 0.3469 0.3503 0.2633
+ Zr14 Zr 0.3483 0.2651 0.3456
+ O15 O 0.3131 0.3146 0.3120
+ O16 O 0.3832 0.3136 0.3804
+ H17 H 0.2834 0.2820 0.4120
+ O18 O 0.3021 0.3008 0.3934
+ H19 H 0.4129 0.2842 0.2793
+ O20 O 0.3945 0.3026 0.2985
+ C21 C 0.2237 0.4710 0.4101
+ F22 F 0.1793 0.4636 0.4114
+ F23 F 0.2313 0.5152 0.4131
+ F24 F 0.2422 0.4513 0.4470
