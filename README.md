@@ -1,9 +1,10 @@
 Collection of scripts and utilities i wrote during my doctoral degree to generate defects in zirconium-based metal-organic frameworks and process the results of computational work.                                                                                                                             
                                                                                                                                                            
-generating-defects:                                                                                                                                                           
+generating-defects:                                                                                                                                         
+defect-generator.py - to generate missing linker and cluster defects in Zr6 carboxylate MOFs                                                               
                                                                                                                                                            
 coremof:                                                                                                                                                   
-core_mof-scraper.py - to scrape the coremof database for interesting Zr6O8 MOFs
+core_mof-scraper.py - to scrape the coremof database for interesting Zr6O8 MOFs                                                                             
                                                                                                                                                            
 Utilities:                                                                                                                                                 
 cp2k-restart-to-cif.py - to convert a CP2K restart file to cif format                                                                                       
