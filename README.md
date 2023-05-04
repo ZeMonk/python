@@ -1,4 +1,4 @@
-Collection of scripts and utilities i wrote during my doctoral degree to generate defects in zirconium-based metal-organic frameworks and process the results of computational work.                                                                                                                             
+Collection of scripts and utilities i wrote during my doctoral degree to generate defects in zirconium-based metal-organic frameworks and process the results of computational work. Everything written for Python 3.7.                                                                                                                             
                                                                                                                                                            
 generating-defects:                                                                                                                                         
 defect-generator.py - to generate missing linker and cluster defects in Zr6 carboxylate MOFs                                                               
